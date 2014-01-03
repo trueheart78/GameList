@@ -1,0 +1,11 @@
+[quote]This is a great quote[/quote] &mdash; Awesome Guy
+
+This is a general note about the lists below
+
+List Title:
+[ ] Rock Band (360)
+[ ] World of Warcraft (PC)
+
+List Title 2:
+[ ] Grid (360) * in progress *
+[ ] DiRT 2 (360)
